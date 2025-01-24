@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+body {
+    /* Intellisense autocomplete always works here */
+    @apply font-sans;
+}

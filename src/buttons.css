@@ -1,0 +1,9 @@
+/* 
+importing tailwindcss again will activate the autocompletions, 
+but this shouldn't be needed if its imported into 
+style.css correct? 
+*/
+/* @import 'tailwindcss'; */
+.btn{
+    @apply bg-blue-500;
+}
